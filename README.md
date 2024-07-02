@@ -15,7 +15,8 @@
 <p>
   Project SIGMA is a versatile home server built using a Raspberry Pi. It provides a range of internet-accessible services including web hosting, secure file storage, SSH access, and remote desktop functionality. Leveraging port forwarding, it ensures seamless and secure access from anywhere.
 
-  Services Implemented :
+  `user@github:/Services-Implemented# ls -la`
+  
   - Cloud Virtual Machine - Kali Linux
   - Secure Shell Service
   - Secure File Transfer Protocol Service
@@ -25,7 +26,7 @@
   - Grafana - Network Monitoring
   - GUI UFW Firewall
 
-  Essentials
+  `user@github:/Essentials# ls -la`
   - Raspberry Pi 5
   - SD Card 128GB
   - Router with Static & Public IP Address
