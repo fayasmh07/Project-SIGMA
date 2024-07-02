@@ -4,6 +4,8 @@
   </p>
 </h1>
 
+![Get started in Canva](https://github.com/fayasmh07/Project-SIGMA/assets/97302873/191ed6da-e6f5-4f12-b583-6341cacd0df5)
+
 <h3>
   <p align="center">
     SINGLE BOARD INTEGRATED GATEWAY AND MANAGEMENT ACCESS
