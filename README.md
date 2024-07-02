@@ -21,5 +21,13 @@
   - Web Hosting Service
   - Connecting IoT Device
   - Grafana - Network Monitoring
-  - 
+  - GUI UFW Firewall
+
+  Essentials
+  - Raspberry Pi 5
+  - SD Card 128GB
+  - Router with Static & Public IP Address
+  - Cooling System for Raspberry Pi
+  - Hard Disk
+  - Kali Linux ARM 64/32 bit ISO
 </p>
