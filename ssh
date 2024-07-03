@@ -1,7 +1,13 @@
 sudo apt update && sudo apt upgrade -y
 //update your server
 
-sudo apt install openssh-server
+`sudo apt install openssh-server`
 //installing required package for ssh server
+
+`sudo systemctl enable ssh`
+`sudo systemctl start ssh`
+//this will enable and start the ssh service
+
+
 
   
