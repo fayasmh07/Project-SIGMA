@@ -6,7 +6,7 @@
 
 1. Download Kali Linux ARM ISO from <a href="https://www.kali.org/get-kali/#kali-platforms">here</a> as per your system architecture.
  
-![image](https://github.com/fayasmh07/Project-SIGMA/assets/97302873/0b93c42f-5359-4b0a-9eb6-fd8936fc9a84)
+![image](https://github.com/fayasmh07/Project-SIGMA/assets/97302873/055b4403-3bac-477a-8e1d-f627c276a8dd)
 
 
 2. Download Raspberry Pi <a href="https://www.raspberrypi.com/software/">RPI-Imager</a> inorder to install the downloaded ISO into the SD Card we have.
