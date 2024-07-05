@@ -1,0 +1,3 @@
+- You can access the VNC service implemented in your server through VNC viewers (Real VNC Viewer)>
+- Thus you can use the VNC service as a Cloud Virtual MAchine of your system.
+- You can also use it with your mobile devices.
