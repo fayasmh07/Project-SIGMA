@@ -4,7 +4,7 @@
   </p>
 </h1>
 
-![Get started in Canva](https://github.com/fayasmh07/Project-SIGMA/assets/97302873/191ed6da-e6f5-4f12-b583-6341cacd0df5)
+![image](https://github.com/fayasmh07/Project-SIGMA/assets/97302873/90555c62-f132-489a-807a-5e1553ae218e)
 
 <h3>
   <p align="center">
